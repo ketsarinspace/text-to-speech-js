@@ -1,6 +1,6 @@
-# To Do List React App
+# Text To Speech
 
-To Do List React APP JS by Ketsarin
+Text To Speech JS by Ketsarin
 
 ## How to Use
 
