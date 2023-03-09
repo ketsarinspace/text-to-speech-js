@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  },
+  "homepage": "http://ketsarinspace.github.io/text-to-speech-js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
